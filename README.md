@@ -3,7 +3,7 @@ This repository contains the implementations and analysis for two Natural Langua
 ## Description of the files present in this repository - 
 * **NLU_A2_Q1.ipynb** - Contains the solution code for problem 1
 * **NLU_A2_Q2.ipynb** - Contains the solution code for problem 2
-* **NLU_A2_report.pdf** - Contains detailed analysis about both problems 1 and 2
+* **report.pdf** - Contains detailed analysis about both problems 1 and 2
 * **data_pdfs** - PDFs used in Problem 1 for data extraction
 * **corpus.txt** - Cleaned corpus ontained in Problem 1
 * **TrainingNames.txt** - LLM generated txt file of 1000 Indian Names
